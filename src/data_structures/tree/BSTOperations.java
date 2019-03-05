@@ -4,10 +4,6 @@ public final class BSTOperations {
 
     private static TreeNode root;
 
-    private BSTOperations() {
-        throw new AssertionError();
-    }
-
     public static void insertNode(TreeNode treeNode, TreeNode parent, final int data) {
         if (treeNode == null) {
             TreeNode node = new TreeNode(data);
@@ -27,7 +23,7 @@ public final class BSTOperations {
         }
     }
 
-    public static void createBST() {
+    public static TreeNode createBST() {
         final TreeNode t13 = new TreeNode(13);
         final TreeNode t4 = new TreeNode(4);
         final TreeNode t6 = new TreeNode(6);
@@ -48,6 +44,12 @@ public final class BSTOperations {
 
         t16.setLeft(t13);
 
+        /*
+                10
+             6     16
+           4   9  13
+         */
+        return root;
     }
 
     public static void printTree(final TreeNode root) {

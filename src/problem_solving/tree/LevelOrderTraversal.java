@@ -16,7 +16,7 @@ public class LevelOrderTraversal {
         if (root == null) {
             return;
         } else if (i == 0) {
-            System.out.print(root.getData());
+            System.out.print(root.getData() + " ");
         } else {
             printNodeAtLevel(root.getLeft(), i - 1);
             printNodeAtLevel(root.getRight(), i - 1);

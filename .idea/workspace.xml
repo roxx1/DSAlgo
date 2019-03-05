@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/BstLCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/MirrorTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structures/tree/BSTOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structures/tree/BSTOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,37 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/string/ReverseWords.java">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/MirrorTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/string/LengthEncoding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="442">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BstLCS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/string/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            <state relative-caret-position="188">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/heap/MinHeap.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java" />
@@ -119,6 +102,9 @@
         <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTree.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/TwoBinTreeIdenticalOrNot.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/MirrorTree.java" />
+        <option value="$PROJECT_DIR$/src/data_structures/tree/BSTOperations.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/BstLCS.java" />
       </list>
     </option>
   </component>
@@ -185,13 +171,6 @@
               <item name="DSAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="problem_solving" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problem_solving" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -205,7 +184,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551677506996" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551762920563" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -224,15 +203,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LevelOrderTraversal">
+  <component name="RunManager" selected="Application.BstLCS">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BinTree" />
+    <configuration name="BinTreeSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BinTreeSize" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -245,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinTreeSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BinTreeSize" />
+    <configuration name="BstLCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BstLCS" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -273,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoBinTreeIdenticalOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.TwoBinTreeIdenticalOrNot" />
+    <configuration name="MirrorTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.MirrorTree" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -287,13 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStringsRotationOfEachOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.string.TwoStringsRotationOfEachOther" />
+    <configuration name="TwoBinTreeIdenticalOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.TwoBinTreeIdenticalOrNot" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem_solving.string.*" />
+          <option name="PATTERN" value="problem_solving.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoStringsRotationOfEachOther" />
-      <item itemvalue="Application.BinTree" />
       <item itemvalue="Application.BinTreeSize" />
       <item itemvalue="Application.TwoBinTreeIdenticalOrNot" />
       <item itemvalue="Application.LevelOrderTraversal" />
+      <item itemvalue="Application.MirrorTree" />
+      <item itemvalue="Application.BstLCS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BstLCS" />
+        <item itemvalue="Application.MirrorTree" />
         <item itemvalue="Application.LevelOrderTraversal" />
         <item itemvalue="Application.TwoBinTreeIdenticalOrNot" />
         <item itemvalue="Application.BinTreeSize" />
-        <item itemvalue="Application.BinTree" />
-        <item itemvalue="Application.TwoStringsRotationOfEachOther" />
       </list>
     </recent_temporary>
   </component>
@@ -377,12 +356,12 @@
       <workItem from="1546913662130" duration="6117000" />
       <workItem from="1547094430961" duration="101329000" />
       <workItem from="1549635271002" duration="18197000" />
-      <workItem from="1551607739440" duration="3605000" />
+      <workItem from="1551607739440" duration="8168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181906000" />
+    <option name="totallyTimeSpent" value="186469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -478,27 +457,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dp/LCS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dp/DPKnapsack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dp/recursion/LCSRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -777,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/string/ReverseWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/string/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -791,13 +742,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structures/tree/BTOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -829,13 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/string/LengthEncoding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BinTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -843,10 +780,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structures/tree/BTOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/string/LengthEncoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/string/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        <state relative-caret-position="386">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structures/tree/BSTOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BstLCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
