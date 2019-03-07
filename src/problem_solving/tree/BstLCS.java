@@ -13,11 +13,10 @@ public class BstLCS {
            4   9  13
          */
 
-        TreeNode lcsNode = LCS(root, 13, 6);
+        final TreeNode lcsNode = LCS(root, 13, 6);
         if (lcsNode != null) {
             System.out.println(lcsNode.getData());
         }
-
     }
 
     private static TreeNode LCS(TreeNode root, int a, int b) {
