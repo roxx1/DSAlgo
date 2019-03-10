@@ -13,7 +13,7 @@ public class BinTreeLCS {
         8   9      10      11
    */
 
-        TreeNode node = findBinLCA(root, 8, 11);
+        TreeNode node = findBinLCA(root, 8, 5);
         if (node != null) {
             System.out.println(node.getData());
         }
