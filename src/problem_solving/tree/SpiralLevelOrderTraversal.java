@@ -12,7 +12,7 @@ public class SpiralLevelOrderTraversal {
           4    5      6   7
         8   9      10      11
    */
-        int height = LevelOrderTraversal.calculateHeight(root);
+        int height = TreeOperations.calculateHeight(root);
         printSpiralOrder(root, height);
 
     }

@@ -5,7 +5,7 @@ import data_structures.tree.TreeNode;
 public class LevelOrderTraversal {
 
     public static void printLevelOrderTraversal(TreeNode root) {
-        final int height = calculateHeight(root);
+        final int height = TreeOperations.calculateHeight(root);
         for (int i = 0; i < height; i++) {
             // print node at a height i
             printNodeAtLevel(root, i);
@@ -23,13 +23,7 @@ public class LevelOrderTraversal {
         }
     }
 
-    public static int calculateHeight(TreeNode root) {
-        if (root == null) {
-            return 0;
-        } else {
-            return 1 + Math.max(calculateHeight(root.getLeft()), calculateHeight(root.getRight()));
-        }
-    }
+
 
     public static void main(String[] args) {
         TreeNode node = BinTree.createTree();
