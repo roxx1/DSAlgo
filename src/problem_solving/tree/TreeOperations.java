@@ -15,4 +15,12 @@ public final class TreeOperations {
             return 1 + Math.max(calculateHeight(root.getLeft()), calculateHeight(root.getRight()));
         }
     }
+
+    public static boolean isLeaf(TreeNode root) {
+        if (root == null) {
+            return false;
+        }
+        return root.getLeft() == null && root.getRight() == null;
+    }
+
 }

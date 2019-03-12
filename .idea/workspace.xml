@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/LevelOfAKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/NodesKDistFromRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/IsBinTreeSumTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/SpiralLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/SpiralLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/SpiralLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/SpiralLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/TreeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/TreeOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/LevelOfAKey.java">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/IsBinTreeSumTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="364">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -44,9 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/dp/MatrixMultiplication.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/dp/recursion/LCSRecursion.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/dp/LCS.java" />
         <option value="$PROJECT_DIR$/src/algorithms/dp/SubSetSum.java" />
         <option value="$PROJECT_DIR$/src/algorithms/dp/recursion/Knapsack01.java" />
         <option value="$PROJECT_DIR$/src/algorithms/dp/DPKnapsack01.java" />
@@ -90,11 +85,14 @@
         <option value="$PROJECT_DIR$/src/problem_solving/tree/BstLCS.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTreeLCS.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/DiameterBinTree.java" />
-        <option value="$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/SpiralLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/NodesKDistFromRoot.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/LevelOfAKey.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalOrder.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalSum.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/IsBinTreeSumTree.java" />
       </list>
     </option>
   </component>
@@ -162,6 +160,13 @@
               <item name="DSAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="problem_solving" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="problem_solving" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -174,7 +179,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552229324051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552412778704" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -193,15 +198,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NodesKDistFromRoot">
+  <component name="RunManager" selected="Application.IsBinTreeSumTree">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinTreeLCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BinTreeLCS" />
+    <configuration name="BinTreeVerticalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BinTreeVerticalOrder" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -214,8 +219,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiameterBinTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.DiameterBinTree" />
+    <configuration name="BinTreeVerticalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.BinTreeVerticalSum" />
+      <module name="DataStructuresAndAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem_solving.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsBinTreeSumTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.IsBinTreeSumTree" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -244,20 +263,6 @@
     </configuration>
     <configuration name="NodesKDistFromRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem_solving.tree.NodesKDistFromRoot" />
-      <module name="DataStructuresAndAlgorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem_solving.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpiralLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.SpiralLevelOrderTraversal" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -301,19 +306,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinTreeLCS" />
-      <item itemvalue="Application.SpiralLevelOrderTraversal" />
-      <item itemvalue="Application.DiameterBinTree" />
       <item itemvalue="Application.LevelOfAKey" />
       <item itemvalue="Application.NodesKDistFromRoot" />
+      <item itemvalue="Application.BinTreeVerticalOrder" />
+      <item itemvalue="Application.BinTreeVerticalSum" />
+      <item itemvalue="Application.IsBinTreeSumTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsBinTreeSumTree" />
+        <item itemvalue="Application.BinTreeVerticalSum" />
+        <item itemvalue="Application.BinTreeVerticalOrder" />
         <item itemvalue="Application.NodesKDistFromRoot" />
         <item itemvalue="Application.LevelOfAKey" />
-        <item itemvalue="Application.DiameterBinTree" />
-        <item itemvalue="Application.SpiralLevelOrderTraversal" />
-        <item itemvalue="Application.BinTreeLCS" />
       </list>
     </recent_temporary>
   </component>
@@ -347,12 +352,12 @@
       <workItem from="1547094430961" duration="101329000" />
       <workItem from="1549635271002" duration="18197000" />
       <workItem from="1551607739440" duration="13936000" />
-      <workItem from="1552201271588" duration="4157000" />
+      <workItem from="1552201271588" duration="13759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196394000" />
+    <option name="totallyTimeSpent" value="205996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -367,13 +372,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2800983" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2800983" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31203932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32063884" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Amazon EC2" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20884521" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20884521" />
       <window_info anchor="bottom" id="AWS Tail" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32923833" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -448,30 +453,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/PairSumClosest0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/MaxForEveryContigousArrayKSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/LargestSubarrayWithEq0And1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/ContigousSubArrayWithGivenSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -722,34 +703,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structures/tree/BSTOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="50" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BstLCS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BinTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/DiameterBinTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -774,17 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,10 +762,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/DiameterBinTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/LevelOfAKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="208">
+          <caret line="8" column="17" selection-start-line="7" selection-start-column="1" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/TreeOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structures/tree/BSTOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/BinTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" selection-start-line="11" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/IsBinTreeSumTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
