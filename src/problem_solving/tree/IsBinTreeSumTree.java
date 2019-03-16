@@ -12,6 +12,30 @@ public class IsBinTreeSumTree {
    */
         boolean isSumTree = findIfBinTreeSumTree(root);
         System.out.println(isSumTree);
+        int isSumTree2 = findIfBinTreeSumTreeApproach2(root);
+        if (isSumTree2 == -1) {
+            System.out.println("Not a sum tree");
+        } else {
+            System.out.println("sum tree");
+        }
+    }
+
+    private static int findIfBinTreeSumTreeApproach2(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        if (TreeOperations.isLeaf(root)) {
+            return root.getData();
+        }
+        int leftSum = findIfBinTreeSumTreeApproach2(root.getLeft());
+        int rightSum = findIfBinTreeSumTreeApproach2(root.getRight());
+
+        if (leftSum == -1 || rightSum == -1) {
+            return -1;
+        } else if (root.getData() == leftSum + rightSum) {
+            return 2 * root.getData();
+        }
+        return -1;
     }
 
     private static boolean findIfBinTreeSumTree(TreeNode root) {
