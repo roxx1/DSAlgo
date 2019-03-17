@@ -3,7 +3,7 @@ package problem_solving.tree;
 import data_structures.tree.BSTOperations;
 import data_structures.tree.TreeNode;
 
-public class BstLCS {
+public class BstLCA {
 
     public static void main(String[] args) {
         final TreeNode root = BSTOperations.createBST();

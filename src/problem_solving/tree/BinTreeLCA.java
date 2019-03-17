@@ -2,7 +2,7 @@ package problem_solving.tree;
 
 import data_structures.tree.TreeNode;
 
-public class BinTreeLCS {
+public class BinTreeLCA {
 
     public static void main(String[] args) {
         final TreeNode root = BinTree.createTree();
