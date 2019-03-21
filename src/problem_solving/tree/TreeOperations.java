@@ -8,6 +8,10 @@ public final class TreeOperations {
         throw new AssertionError();
     }
 
+    public static TreeNode createNewNode(Integer data) {
+        return new TreeNode(data);
+    }
+
     public static int calculateHeight(TreeNode root) {
         if (root == null) {
             return 0;
@@ -21,6 +25,15 @@ public final class TreeOperations {
             return false;
         }
         return root.getLeft() == null && root.getRight() == null;
+    }
+
+    public static void printInorder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        printInorder(root.getLeft());
+        System.out.print(root.getData() + " ");
+        printInorder(root.getRight());
     }
 
 }
