@@ -4,7 +4,7 @@ import data_structures.tree.TreeNode;
 
 import java.util.*;
 
-public class DiagnolTraversalBT {
+public class DiagonalTraversalBT {
 
     public static void main(String[] args) {
         final TreeNode root = BinTree.createTree();
