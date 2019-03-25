@@ -1,4 +1,4 @@
-package problem_solving.tree;
+package problem_solving.tree.util;
 
 import data_structures.tree.TreeNode;
 

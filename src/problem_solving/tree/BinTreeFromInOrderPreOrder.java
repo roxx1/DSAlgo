@@ -1,6 +1,7 @@
 package problem_solving.tree;
 
 import data_structures.tree.TreeNode;
+import problem_solving.tree.util.TreeOperations;
 
 public class BinTreeFromInOrderPreOrder {
 
