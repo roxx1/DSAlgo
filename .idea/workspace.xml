@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/BoundaryTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/NextRightNodeBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/serialize/DeserializeBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/serialize/SerializeBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/ConvertTree2SumTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/tree/IsFoldableBT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/BSTFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/BSTFromSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/BinTreeFromInOrderPreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/BinTreeFromInOrderPreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/ConvertBT2SumTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/ConvertBT2SumTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/IsBinTreeSumTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/IsBinTreeSumTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOfAKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOfAKey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderAlternativeExtremeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderAlternativeExtremeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/LevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/MaxDiffFromAncestors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/MaxDiffFromAncestors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/MultSumOfNodesAtSameLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/MultSumOfNodesAtSameLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/NodesKDistFromLeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/NodesKDistFromLeaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/NodesKDistFromRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/NodesKDistFromRoot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/Root2LeafPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/Root2LeafPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/SpiralLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/SpiralLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/TreeOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/Root2LeafPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/Root2LeafPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/util/TreeOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/util/TreeOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/NextRightNodeBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/tree/NextRightNodeBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/tree/NextRightNodeBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/tree/NextRightNodeBT.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,14 +38,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/NextRightNodeBT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="310">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/ConvertTree2SumTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/IsFoldableBT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="32" column="106" selection-start-line="32" selection-start-column="106" selection-end-line="32" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -114,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/problem_solving/stack/StackGetMinInOrder1.java" />
-        <option value="$PROJECT_DIR$/src/problem_solving/stack/ImplementStackUsingQueues.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/stack/NextClosestGreaterElem.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/stack/MergeOverlappingIntervals.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/stack/CheckBalancedParenthesis.java" />
@@ -165,6 +168,8 @@
         <option value="$PROJECT_DIR$/src/problem_solving/tree/Root2LeafPaths.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/BoundaryTraversal.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/NextRightNodeBT.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/ConvertTree2SumTree.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/tree/IsFoldableBT.java" />
       </list>
     </option>
   </component>
@@ -221,14 +226,6 @@
               <item name="problem_solving" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DSAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="problem_solving" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -239,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554492386123" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554497220428" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -258,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NextRightNodeBT">
+  <component name="RunManager" selected="Application.IsFoldableBT">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -279,13 +276,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeserializeBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.serialize.DeserializeBT" />
+    <configuration name="ConvertTree2SumTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.ConvertTree2SumTree" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem_solving.tree.serialize.*" />
+          <option name="PATTERN" value="problem_solving.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsFoldableBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.IsFoldableBT" />
+      <module name="DataStructuresAndAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem_solving.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,20 +320,6 @@
     </configuration>
     <configuration name="Root2LeafPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem_solving.tree.Root2LeafPaths" />
-      <module name="DataStructuresAndAlgorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem_solving.tree.serialize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SerializeBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.tree.serialize.SerializeBT" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -368,18 +365,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Root2LeafPaths" />
-      <item itemvalue="Application.SerializeBT" />
-      <item itemvalue="Application.DeserializeBT" />
       <item itemvalue="Application.BoundaryTraversal" />
       <item itemvalue="Application.NextRightNodeBT" />
+      <item itemvalue="Application.ConvertTree2SumTree" />
+      <item itemvalue="Application.IsFoldableBT" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsFoldableBT" />
+        <item itemvalue="Application.ConvertTree2SumTree" />
         <item itemvalue="Application.NextRightNodeBT" />
         <item itemvalue="Application.BoundaryTraversal" />
         <item itemvalue="Application.Root2LeafPaths" />
-        <item itemvalue="Application.DeserializeBT" />
-        <item itemvalue="Application.SerializeBT" />
       </list>
     </recent_temporary>
   </component>
@@ -419,18 +416,18 @@
       <workItem from="1553071365700" duration="5203000" />
       <workItem from="1553189741053" duration="17907000" />
       <workItem from="1553765499368" duration="14060000" />
-      <workItem from="1554491661240" duration="727000" />
+      <workItem from="1554491661240" duration="3033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252069000" />
+    <option name="totallyTimeSpent" value="254375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19027181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19027181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -439,7 +436,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26626506" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26626506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3120482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,20 +611,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/Segregate0And1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dp/SubSetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/string/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -1004,11 +987,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/NextRightNodeBT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="310">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/ConvertTree2SumTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/IsFoldableBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="32" column="106" selection-start-line="32" selection-start-column="106" selection-end-line="32" selection-end-column="106" />
         </state>
       </provider>
     </entry>

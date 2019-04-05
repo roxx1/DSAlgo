@@ -36,21 +36,21 @@ public class NextRightNodeBT {
         queue_l.offer(0); //level of root
 
         while (!queue_n.isEmpty()) {
-            final TreeNode node = queue_n.poll();
+            final TreeNode frontNode = queue_n.poll();
             int level = queue_l.poll();
 
-            if (node.getData() == k) {
+            if (frontNode.getData() == k) {
                 if (queue_n.isEmpty() || queue_l.peek() != level) {
                     return null;
                 }
                 return queue_n.poll();
             } else {
-                if (node.getLeft() != null) {
-                    queue_n.offer(node.getLeft());
+                if (frontNode.getLeft() != null) {
+                    queue_n.offer(frontNode.getLeft());
                     queue_l.offer(level + 1);
                 }
-                if (node.getRight() != null) {
-                    queue_n.offer(node.getRight());
+                if (frontNode.getRight() != null) {
+                    queue_n.offer(frontNode.getRight());
                     queue_l.offer(level + 1);
                 }
             }
