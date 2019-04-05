@@ -3,6 +3,8 @@ package problem_solving.tree;
 import data_structures.tree.TreeNode;
 import problem_solving.tree.util.TreeOperations;
 
+import java.util.Date;
+
 public class Root2LeafPaths {
 
     public static void main(String[] args) {
@@ -16,7 +18,6 @@ public class Root2LeafPaths {
         int path[] = new int[11];
 
         printRoot2Leaf(root, path, 0);
-
     }
 
     private static void printRoot2Leaf(TreeNode root, int[] path, int len) {

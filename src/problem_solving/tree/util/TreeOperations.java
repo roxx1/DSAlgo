@@ -36,4 +36,14 @@ public final class TreeOperations {
         printInorder(root.getRight());
     }
 
+
+    public static void printPreorder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        System.out.print(root.getData() + " ");
+        printPreorder(root.getLeft());
+        printPreorder(root.getRight());
+    }
+
 }
