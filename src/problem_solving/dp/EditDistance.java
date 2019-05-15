@@ -2,8 +2,8 @@ package problem_solving.dp;
 
 public class EditDistance {
     public static void main(String[] args) {
-        String str1 = new String("DATE");
-        String str2 = new String("DENT");
+        String str1 = "DATE";
+        String str2 = "DENT";
         findMinEditDistance(str1, str2);
     }
 
