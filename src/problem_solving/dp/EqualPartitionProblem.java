@@ -11,8 +11,8 @@ public class EqualPartitionProblem {
 
     private static void findIfEqualPartitionPossible(int[] arr) {
         // check if Array can be Equally Divided
-        final int sum = Arrays.stream(arr).sum() / 2; // check if Half Sum can be computed by summing half elements
-        // 19     4  sum 15 ??  or 19 sum ??
+        final int sum = Arrays.stream(arr).sum() / 2; // check if Half Sum can be computed by summing
+
         boolean partition[][] = new boolean[arr.length + 1][sum + 1];
 
         for (int i = 0; i <= sum; i++) {

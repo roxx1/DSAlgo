@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/EqualPartitionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/LargestSumIndependentSumBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/NBitNosWithNo2ConsecutiveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/dp/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/dp/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/dp/EqualPartitionProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/dp/EqualPartitionProblem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/EqualPartitionProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="338">
+              <caret line="13" column="101" selection-start-line="13" selection-start-column="101" selection-end-line="13" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -273,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557904684542" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557904692301" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -458,12 +454,12 @@
       <workItem from="1555232748801" duration="641000" />
       <workItem from="1555384158432" duration="530000" />
       <workItem from="1556741844772" duration="5228000" />
-      <workItem from="1556892868874" duration="32541000" />
+      <workItem from="1556892868874" duration="32645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309832000" />
+    <option name="totallyTimeSpent" value="309936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -478,7 +474,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24819277" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24819277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3120482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1062,8 +1058,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/EqualPartitionProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        <state relative-caret-position="338">
+          <caret line="13" column="101" selection-start-line="13" selection-start-column="101" selection-end-line="13" selection-end-column="101" />
         </state>
       </provider>
     </entry>
