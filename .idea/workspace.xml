@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/PalindromeByDeletingAtmostKCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,17 +53,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="189">
+              <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/PalindromeByDeletingAtmostKCharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-end-line="26" />
+            <state relative-caret-position="208">
+              <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -115,15 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/LongestSubSeqElemConsecutive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -139,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalSum.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/IsBinTreeSumTree.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/TopViewBinTree.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/BottomViewBinTree.java" />
@@ -190,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentinAnotherString.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/dp/PalindromeByDeletingAtmostKCharacters.java" />
       </list>
     </option>
   </component>
@@ -370,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558312837255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558318960321" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -555,18 +555,18 @@
       <workItem from="1555232748801" duration="641000" />
       <workItem from="1555384158432" duration="530000" />
       <workItem from="1556741844772" duration="5228000" />
-      <workItem from="1556892868874" duration="48887000" />
+      <workItem from="1556892868874" duration="49486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326178000" />
+    <option name="totallyTimeSpent" value="326777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -575,13 +575,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24819277" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24819277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3120482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Amazon EC2" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25421688" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25421688" />
       <window_info anchor="bottom" id="AWS Tail" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32923833" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -750,13 +750,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dp/recursion/Knapsack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/LevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1145,17 +1138,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java">
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="208">
+          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java">
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-end-line="26" />
+        <state relative-caret-position="189">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/PalindromeByDeletingAtmostKCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
         </state>
       </provider>
     </entry>
