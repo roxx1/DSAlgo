@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/LongestPalindromicSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/MinCostIdenticalString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="291">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="37" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -66,15 +73,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
               <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/tree/NodesKDistFromRoot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -141,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalOrder.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/BinTreeVerticalSum.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/IsBinTreeSumTree.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/TopViewBinTree.java" />
@@ -192,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/problem_solving/dp/MinCostIdenticalString.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentinAnotherString.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java" />
       </list>
     </option>
   </component>
@@ -372,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558269925406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558312837255" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -391,7 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NoOfSubseqPresentInAnotherString">
+  <component name="RunManager" selected="Application.NoOfWaysCoinsFormAmount">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -440,8 +438,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NBitNosWithNo2ConsecutiveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.dp.NBitNosWithNo2ConsecutiveZeroes" />
+    <configuration name="NoOfSubseqPresentInAnotherString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.dp.NoOfSubseqPresentInAnotherString" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -454,8 +452,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoOfSubseqPresentInAnotherString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.dp.NoOfSubseqPresentInAnotherString" />
+    <configuration name="NoOfWaysCoinsFormAmount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.dp.NoOfWaysCoinsFormAmount" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -500,19 +498,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NBitNosWithNo2ConsecutiveZeroes" />
       <item itemvalue="Application.EqualPartitionProblem" />
       <item itemvalue="Application.LongestPalindromicSubseq" />
       <item itemvalue="Application.MinCostIdenticalString" />
       <item itemvalue="Application.NoOfSubseqPresentInAnotherString" />
+      <item itemvalue="Application.NoOfWaysCoinsFormAmount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoOfWaysCoinsFormAmount" />
         <item itemvalue="Application.NoOfSubseqPresentInAnotherString" />
         <item itemvalue="Application.MinCostIdenticalString" />
         <item itemvalue="Application.LongestPalindromicSubseq" />
         <item itemvalue="Application.EqualPartitionProblem" />
-        <item itemvalue="Application.NBitNosWithNo2ConsecutiveZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -557,12 +555,12 @@
       <workItem from="1555232748801" duration="641000" />
       <workItem from="1555384158432" duration="530000" />
       <workItem from="1556741844772" duration="5228000" />
-      <workItem from="1556892868874" duration="45358000" />
+      <workItem from="1556892868874" duration="48887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322649000" />
+    <option name="totallyTimeSpent" value="326178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -752,13 +750,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dp/DPKnapsack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/dp/recursion/Knapsack01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1156,8 +1147,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfSubseqPresentInAnotherString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="291">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/dp/NoOfWaysCoinsFormAmount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-end-line="26" />
         </state>
       </provider>
     </entry>
