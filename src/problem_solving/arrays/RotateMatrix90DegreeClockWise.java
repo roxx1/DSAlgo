@@ -16,17 +16,13 @@ public class RotateMatrix90DegreeClockWise {
     public static void rotate(int[][] matrix) {
         int i, j, k;
         int n = matrix.length;
-        boolean visited[][] = new boolean[n][n];
+
         // transpose
         for (i = 0; i < n; i++) {
-            for (j = 0; j < n; j++) {
-                if (visited[i][j] == false && visited[j][i] == false) {
+            for (j = i; j < n; j++) {
                     int temp = matrix[i][j];
                     matrix[i][j] = matrix[j][i];
                     matrix[j][i] = temp;
-                    visited[i][j] = true;
-                    visited[j][i] = true;
-                }
             }
         }
 

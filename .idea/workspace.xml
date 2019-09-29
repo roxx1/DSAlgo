@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeAnti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeAnti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeClockWise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeClockWise.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,10 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeAnti.java">
+        <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeClockWise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="234">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -124,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/problem_solving/tree/DiagonalTraversalBT.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/MultSumOfNodesAtSameLevel.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/convertBT2SumTree.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/tree/ConvertBT2SumTree.java" />
@@ -175,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/problem_solving/backtracking/KnightTour.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/linked_list/CheckPalindromeLL.java" />
         <option value="$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeAnti.java" />
+        <option value="$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeClockWise.java" />
       </list>
     </option>
   </component>
@@ -247,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569742517730" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569742797579" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -269,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateMatrix90DegreeAnti">
+  <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -318,8 +318,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrix90DegreeAnti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.arrays.RotateMatrix90DegreeAnti" />
+    <configuration name="RotateMatrix90DegreeClockWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.arrays.RotateMatrix90DegreeClockWise" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -382,11 +382,11 @@
       <item itemvalue="Application.NQueenProblem" />
       <item itemvalue="Application.RatInMaze" />
       <item itemvalue="Application.CheckPalindromeLL" />
-      <item itemvalue="Application.RotateMatrix90DegreeAnti" />
+      <item itemvalue="Application.RotateMatrix90DegreeClockWise" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateMatrix90DegreeAnti" />
+        <item itemvalue="Application.RotateMatrix90DegreeClockWise" />
         <item itemvalue="Application.CheckPalindromeLL" />
         <item itemvalue="Application.RatInMaze" />
         <item itemvalue="Application.NQueenProblem" />
@@ -439,12 +439,12 @@
       <workItem from="1558608971623" duration="5592000" />
       <workItem from="1558700652487" duration="3561000" />
       <workItem from="1569272037701" duration="102000" />
-      <workItem from="1569486524073" duration="4112000" />
+      <workItem from="1569486524073" duration="4369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="358316000" />
+    <option name="totallyTimeSpent" value="358573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -1026,10 +1026,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeAnti.java">
+    <entry file="file://$PROJECT_DIR$/src/problem_solving/arrays/RotateMatrix90DegreeClockWise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="234">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
