@@ -55,8 +55,6 @@ public class ValidSudoku {
 
     public static boolean isValid(char[][] board, int i, int j, int no, int n) {
 
-        //if (i < 0 || i >= n || j < 0 || j >= n || board[i][j] != '.') return false;
-
         char c = (char) (no + '0');
 
         for (int x = 0; x < n; x++) {

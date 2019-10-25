@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/backtracking/ValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/META-INF/DataStructuresAndAlgorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/dp/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/dp/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/dp/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/dp/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/backtracking/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/backtracking/ValidSudoku.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
