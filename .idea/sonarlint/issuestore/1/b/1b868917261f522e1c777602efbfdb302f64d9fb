@@ -1,0 +1,8 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŽÙâ³üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(óüâëüÿÿÿÿ
+=squid:S1481"(Remove this unused "pop" local variable.(ÙÍ¨²
+Fsquid:S1612",Replace this lambda with a method reference.(ë£ûÛûÿÿÿÿ
+Lsquid:S1854"7Remove this useless assignment to local variable "pop".(ÙÍ¨²
+esquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¤Ä˜†

@@ -48,7 +48,6 @@ public class ValidSudoku {
                 board[i][j] = '.';
             }
         }
-
         return false;
     }
 
@@ -82,12 +81,7 @@ public class ValidSudoku {
                 }
             }
         }
-
-
         return true;
     }
-
-
-
 }
 

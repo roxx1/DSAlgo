@@ -1,0 +1,8 @@
+
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(“œ®µ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ú´¹ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ƒñìÿÿÿÿÿ
+[squid:S1126"AReplace this if-then-else statement by a single return statement.(Éª¤øÿÿÿÿ
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ

@@ -1,0 +1,5 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÉºZ8ú™°-
+Csquid:S1659""Declare "next" on a separate line.(Ã³ş†ıÿÿÿÿ8éÎ—°-
+c$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¬ìËû8üÕ•°-

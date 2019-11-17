@@ -2,8 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7749d5-4661-41df-bf87-3673f6f861fd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04dcf48e38a8b4de9fe3c2ad02105f18fecf4f58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09e86e5870e9283a4f094e82cbfad691df605eba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c59b034e597c3cc79af5dc552f860837fddeda5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13ead2e5b7d38f16eb24462b985671b0910be9a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14d009c9423159ae4832fa34e019501cf9ebf98b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1503d976529fd485ff2ed055877932b01b1526e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b868917261f522e1c777602efbfdb302f64d9fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c7c37b9f4d4dede7f0b7c061d7b827f197ccd53" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1df3a95f8d0e5362d4dc8bf2af7a40d7ad7a40eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/209a4144d761c05130a40a8270493a18f870def0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2461297ed1f19e9f76abf0816090d4fa3e64e020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/270fa82eebbe5395ca3654b93693a2589dab57cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28d7467eb07379ad946c80361863b7aa5b4e9df1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bf71cbf2c0baf806956cbf7cc02c2155a0aadbe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a1c1a9294b5187835ebe0dbe9f24eda5d67709f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f7ef08442e4a20bcf8006668ffc310577dec3ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/499e356bf81d044be23a64cdf46689db332c2f46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5460f3c1102572d63091cc1f9396f1518549e3be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/570b53d4796648aea7bf62fe682fb80eabf0691e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6613117f4f8d858daea5d0f35c635e0dc25bcf92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/687b9b246a302c034afdded4ae2bfb78a272b12b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68b50f2e119fd7748628ab36fcbbd5702486840d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b47f4d127c75d75ae4df8a30def56e5927bf966" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6beda69fa37352805b02398de572cb25c4460b4c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c223a5f4c8c133ec174f0698984f3de8d7c723f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86ba23d10dbf99a5cf7ff0a7b8247e2cbf56910d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90e4e624f153054851119ff67e1f903165836a05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94c055bbc3cbc469294e950549ffa92dcab90ad1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9595acb4a707944218a9f04ba59ee5107c806370" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/973812771c4796f8a7ab5b87be0c46572b6996da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fa7ce104d14e1c7bc99de5f935e3565bc6d0adf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a651cd5467f9b2de525ae30179ccd0bb149301bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8b9bd3492f2695fd0cf7bb2d66ba8c27baa6f2c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b732bb60d59d40c1263a68bcb5ecb5f7f24e1e82" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce95ed14a57dfeaa4c640790c1a0a5e4b38afbee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d06b6313f606cd2e78e8a12a22ba2f43953a91d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d23dab831e0ebc0db98ae1b3c844486c7a052ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dacf69b1e762a5d9ccbf485ecf8aa1cacb507d92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7ec0ca44b9dd0f374adb74cda7668e9b51471ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ede6f973a165bdc53737b99a5a7bd1a7d050ebef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eea2c96ea5ed5d7aa21733fd7523fcb94a130470" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f638662785a4c51369c10d2ce2ea4a5f506b1d6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7bea838e7ac44b4a290194e3f973bdb583a8367" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa258973f33d85834e1cf78ce5358ea7da027941" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffbdc0c889563518cdfb74a02082d45bdb449bcd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/CheckKthBitSetOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/CheckNoPower2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/CheckPowerOf4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/ClearKthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/CountSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/MultiplyBy7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/NextHigherNoPower2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/SetKthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/bit_manipulation/ToggleKthBit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithms/problem_solving/dp/Practice.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem_solving/backtracking/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/backtracking/ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/dp/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/dp/Practice.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +105,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569742797579" />
@@ -70,20 +130,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidSudoku">
+  <component name="RunManager" selected="Application.CheckPowerOf4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPalindromeLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.linked_list.CheckPalindromeLL" />
+    <configuration name="CheckPowerOf4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.bit_manipulation.CheckPowerOf4" />
       <module name="DataStructuresAndAlgorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem_solving.linked_list.*" />
+          <option name="PATTERN" value="problem_solving.bit_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.dp.Graph" />
+      <module name="DataStructuresAndAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem_solving.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplyBy7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.bit_manipulation.MultiplyBy7" />
+      <module name="DataStructuresAndAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem_solving.bit_manipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextHigherNoPower2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_solving.bit_manipulation.NextHigherNoPower2" />
+      <module name="DataStructuresAndAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem_solving.bit_manipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,48 +200,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="problem_solving.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RatInMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.backtracking.RatInMaze" />
-      <module name="DataStructuresAndAlgorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem_solving.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateMatrix90DegreeClockWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.arrays.RotateMatrix90DegreeClockWise" />
-      <module name="DataStructuresAndAlgorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem_solving.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem_solving.backtracking.ValidSudoku" />
-      <module name="DataStructuresAndAlgorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem_solving.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +241,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RatInMaze" />
-      <item itemvalue="Application.CheckPalindromeLL" />
-      <item itemvalue="Application.RotateMatrix90DegreeClockWise" />
       <item itemvalue="Application.Practice" />
-      <item itemvalue="Application.ValidSudoku" />
+      <item itemvalue="Application.Graph" />
+      <item itemvalue="Application.NextHigherNoPower2" />
+      <item itemvalue="Application.MultiplyBy7" />
+      <item itemvalue="Application.CheckPowerOf4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidSudoku" />
+        <item itemvalue="Application.CheckPowerOf4" />
+        <item itemvalue="Application.MultiplyBy7" />
+        <item itemvalue="Application.NextHigherNoPower2" />
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.RotateMatrix90DegreeClockWise" />
-        <item itemvalue="Application.CheckPalindromeLL" />
-        <item itemvalue="Application.RatInMaze" />
       </list>
     </recent_temporary>
   </component>

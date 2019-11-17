@@ -1,0 +1,8 @@
+
+Rsquid:S1197"8Move the array designator from the variable to the type.(áÉÀ®úÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¤±÷
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¹°ÈŽøÿÿÿÿ
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ì¸ü¶ùÿÿÿÿ
+esquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾Ö€™
+esquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾Ö€™
